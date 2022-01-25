@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/420130436.svg)](https://zenodo.org/badge/latestdoi/420130436)
+
 # Data and trained models for predicting the stability and redox potentials of organic radicals
 
 Part of an upcoming work on optimizing organic radical scaffolds for aqueous redox flow batteries.
