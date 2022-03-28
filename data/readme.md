@@ -35,7 +35,7 @@ This file describes the DFT-calculated unpaired electron spin (spin), buried vol
 `radical_db_redox_potentials.csv.gz` and `radical_db_spins_and_bv.csv.gz` contain approximately 4,000 high-scoring, DFT-optimized molecules from previous iterations of the RL algorithm, added to the training dataset above to give better predictive performance in the region of interest. The format of the files is identical to the training database files above.
 
 
-### RL candidates
+## RL candidates
 
 `rl_candidates_ml_and_dft.csv` contains ML-predicted and DFT-calculated values for the 1078 top-performing RL candidates. This file includes columns (`*_ml` and `*_dft`) for
 * `max_spin`: the maximum fractional spin over all atoms in the molecule
